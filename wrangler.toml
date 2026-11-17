@@ -1,0 +1,6 @@
+name = "mailredian"
+pages_build_output_dir = "./public"
+compatibility_date = "2026-11-03"
+
+# The project is a Cloudflare Pages Functions API. The public directory is
+# intentionally empty: no frontend, dashboard, or static application is built.
